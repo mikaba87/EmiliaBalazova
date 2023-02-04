@@ -1,2 +1,2 @@
-WIFI_SSID = "HUAWEI Y7"
-WIFI_PASS = "65800b3d5a4c"
+WIFI_SSID = "xxxxxxx"
+WIFI_PASS = "xxxxxxx"
